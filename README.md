@@ -1,4 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+!;I'm+Siva+Prakash)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working on Seaant Web Technologies<br>🌱 I'm Currently learning React JS<br>👯 I’m looking to collaborate on Freelancing<br>🤝 I’m looking for help with Metaverse<br>💬 Ask me about Front end development related stuffs<br>🚀 How to reach me: Mail - sivaaquaris.007@gmail.com, Twitter - @S9v1<br>😊 Pronouns: He/His<br>⚡ Fun fact: I love to hear songs most of the time every day
 
