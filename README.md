@@ -5,7 +5,7 @@
 </p>
 
 # 💫 About Me:
-🔭 I’m currently working on Seaant Web Technologies<br>🌱 I'm Currently learning React JS<br>👯 I’m looking to collaborate on Freelancing<br>🤝 I’m looking for help with Metaverse<br>💬 Ask me about Front end development related stuffs<br>🚀 How to reach me: Mail - sivaaquaris.007@gmail.com, Twitter - @S9v1<br>😊 Pronouns: He/His<br>⚡ Fun fact: I love to hear songs most of the time every day
+🔭 I’m currently working on Zuci Systems <br>🌱 I'm Currently learning to become a Full Stack <br>👯 I’m looking to collaborate on Freelancing<br>🤝 I’m looking for help with Metaverse<br>💬 Ask me about Front end development related stuffs<br>🚀 How to reach me: Mail - sivaaquaris.007@gmail.com, Twitter - @S9v1<br>😊 Pronouns: He/His<br>⚡ Fun fact: I love to hear songs most of the time every day
 
 
 ## 🌐 Socials:
